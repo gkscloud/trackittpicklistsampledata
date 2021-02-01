@@ -6,7 +6,7 @@
       "field3": "ED-P-800001",
       "field4": 3,
       "field5": "WAREHOUSE | AISLE 3 | RACK 2A ",
-      "field6": 5,
+      "field6": 5
     },
     {
       "field1": "LAC70001A",
@@ -14,7 +14,7 @@
       "field3": "ED-P-800002",
       "field4": 3,
       "field5": "AREA 1 | AISLE 2 | RACK 4B ",
-      "field6": 5,
+      "field6": 5
     },
      {
       "field1": "LAC70001A",
@@ -22,7 +22,7 @@
       "field3": "ED-P-802931",
       "field4": 1,
       "field5": "TOOLING RACK | SHELF 1 | UNIT 4 ",
-      "field6": 3,
+      "field6": 3
     },
      {
       "field1": "LAC70001A",
@@ -30,7 +30,7 @@
       "field3": "ED-P-812001",
       "field4": 1,
       "field5": "NPS | N/A | N/A ",
-      "field6": 2,
+      "field6": 2
     }
   ]
 }
