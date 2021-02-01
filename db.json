@@ -1,5 +1,5 @@
 {
-  "data": [
+  "posts": [
     {
       "id": 1,
       "field1": "LAC70001A",
@@ -9,5 +9,8 @@
       "field5": "WAREHOUSE | AISLE 3 | RACK 2A ",
       "field6": 5
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
