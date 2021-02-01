@@ -34,6 +34,16 @@
       "field6": 2
     }
   ],
+  "sample2": [
+    {
+      "field1": "LAC70001A",
+      "field2": "REPL TOOLING",
+      "field3": "ED-P-812001",
+      "field4": 1,
+      "field5": "NPS | N/A | N/A ",
+      "field6": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
