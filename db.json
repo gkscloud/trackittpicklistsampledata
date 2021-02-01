@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
       "field1": "LAC70001A",
@@ -8,6 +8,30 @@
       "field4": 3,
       "field5": "WAREHOUSE | AISLE 3 | RACK 2A ",
       "field6": 5
+    },
+    {
+      "field1": "LAC70001A",
+      "field2": "FIXTURE 357A",
+      "field3": "ED-P-800002",
+      "field4": 3,
+      "field5": "AREA 1 | AISLE 2 | RACK 4B ",
+      "field6": 5
+    },
+     {
+      "field1": "LAC70001A",
+      "field2": "JIG 2X47",
+      "field3": "ED-P-802931",
+      "field4": 1,
+      "field5": "TOOLING RACK | SHELF 1 | UNIT 4 ",
+      "field6": 3
+    },
+     {
+      "field1": "LAC70001A",
+      "field2": "REPL TOOLING",
+      "field3": "ED-P-812001",
+      "field4": 1,
+      "field5": "NPS | N/A | N/A ",
+      "field6": 2
     }
   ],
   "profile": {
